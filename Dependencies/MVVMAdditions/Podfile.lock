@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.3.0)
+  - EventBusSwift (0.1.1)
+  - KeychainSwift (7.0.0)
+  - RxSwift (3.2.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - EventBusSwift
+  - KeychainSwift
+  - RxSwift
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  EventBusSwift: 6769a2aff6c46d6075cebe9dfc054f53b14f009c
+  KeychainSwift: b6947435dd78cc442c64a84ae648dd0e871cf448
+  RxSwift: 46574f70d416b7923c237195939cc488a7fbf3a0
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: bc32ba7bad3b5b10e733d8787c04a44a31049096
+
+COCOAPODS: 1.2.0.beta.3

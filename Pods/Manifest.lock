@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.3.0)
+  - EventBusSwift (0.1.1)
+  - KeychainSwift (7.0.0)
+  - MVVMAdditions (1.0):
+    - Alamofire
+    - EventBusSwift
+    - KeychainSwift
+    - RxSwift
+    - SwiftyJSON
+  - RxCocoa (3.2.0):
+    - RxSwift (~> 3.1)
+  - RxSwift (3.2.0)
+  - SwiftyJSON (3.1.4)
+  - Swinject (2.0.0)
+  - SwinjectStoryboard (1.0.0):
+    - Swinject (= 2.0.0)
+
+DEPENDENCIES:
+  - MVVMAdditions (from `./Dependencies/`)
+  - RxCocoa
+  - Swinject (~> 2.0.0)
+  - SwinjectStoryboard (~> 1.0.0)
+
+EXTERNAL SOURCES:
+  MVVMAdditions:
+    :path: ./Dependencies/
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  EventBusSwift: 6769a2aff6c46d6075cebe9dfc054f53b14f009c
+  KeychainSwift: b6947435dd78cc442c64a84ae648dd0e871cf448
+  MVVMAdditions: 18b062ba23b35647755ec1e6b554159d4c96a81d
+  RxCocoa: ccdf43101a70407097a29082f648ba1676075b30
+  RxSwift: 46574f70d416b7923c237195939cc488a7fbf3a0
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Swinject: 2e964a80d70ab09b3949c99032711f89147bfd60
+  SwinjectStoryboard: 8e0d3c0202b64172bdf915d55e8dc83d9c4e7863
+
+PODFILE CHECKSUM: 60114565ab9348324aa9e29635d64ea3be686fe6
+
+COCOAPODS: 1.2.0

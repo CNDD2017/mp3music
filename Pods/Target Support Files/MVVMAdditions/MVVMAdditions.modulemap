@@ -1,0 +1,6 @@
+framework module MVVMAdditions {
+  umbrella header "MVVMAdditions-umbrella.h"
+
+  export *
+  module * { export * }
+}

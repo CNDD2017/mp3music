@@ -1,0 +1,40 @@
+{
+  "name": "MVVMAdditions",
+  "version": "1.0",
+  "summary": "MVVMAdditions framework in Swift",
+  "description": "Lightweight service framework to build MVVM Architecture",
+  "homepage": "https://github.com/TVGSoft",
+  "license": {
+    "type": "MIT"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "authors": {
+    "Giap Tran": "tvgsoft@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/TVGSoft/MVVMAdditions.git",
+    "tag": "1.0"
+  },
+  "source_files": "MVVMAdditions/MVVMAdditions/**/*.{h,m,swift}",
+  "public_header_files": "MVVMAdditions/MVVMAdditions/**/*.h",
+  "requires_arc": true,
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "KeychainSwift": [
+
+    ],
+    "EventBusSwift": [
+
+    ],
+    "RxSwift": [
+
+    ]
+  }
+}
